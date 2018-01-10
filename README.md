@@ -1,2 +1,5 @@
 # Nixie_Dice
-Tester for NIxie Tube
+
+![nixie dice demo](https://raw.githubusercontent.com/henryflorence/Nixie_Dice/master/demo.gif)
+
+Simple test circuit for Nixie Tubes
